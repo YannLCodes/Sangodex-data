@@ -1,0 +1,9718 @@
+/*
+    SAVED ORPHAN TERMS IN SG
+    COUNT: 1214
+*/
+[
+    {
+      "id": 5,
+      "value": "abakôsi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 6,
+      "value": "abô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 18,
+      "value": "Afrîka tî Bê nî",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 30,
+      "value": "âi",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 43,
+      "value": "alimëti",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 50,
+      "value": "amete",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 53,
+      "value": "ananäsi",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 54,
+      "value": "ânarûmbatêe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 59,
+      "value": "andïsi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 71,
+      "value": "äpë",
+      "language": "1",
+      "part": "interjection",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 76,
+      "value": "arâbu",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 87,
+      "value": "asë",
+      "language": "1",
+      "part": "conjunction",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 104,
+      "value": "awe",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 105,
+      "value": "awe",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 111,
+      "value": "azo kue",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 112,
+      "value": "azo kue",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 115,
+      "value": "bâ",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 116,
+      "value": "bâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 119,
+      "value": "bâa-mo-tene",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 123,
+      "value": "baba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 124,
+      "value": "baba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 130,
+      "value": "bäboro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 145,
+      "value": "bâgozo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 152,
+      "value": "bakelë",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 155,
+      "value": "bäkongö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 169,
+      "value": "balë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 170,
+      "value": "balë",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 190,
+      "value": "bânga",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 191,
+      "value": "bânga",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 194,
+      "value": "bangâle",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 195,
+      "value": "bängängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 196,
+      "value": "bangäpôrô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 200,
+      "value": "bangë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 203,
+      "value": "bängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 204,
+      "value": "bängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 205,
+      "value": "bângû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 207,
+      "value": "bânyämä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 210,
+      "value": "bâô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 213,
+      "value": "bâra",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 214,
+      "value": "barabokasa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 216,
+      "value": "barakûda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 227,
+      "value": "basënzi",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 238,
+      "value": "batakangi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 254,
+      "value": "bazëen",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 267,
+      "value": "bêburü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 270,
+      "value": "beêtë",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 272,
+      "value": "bëgbëngë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 276,
+      "value": "bêkombïte",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 280,
+      "value": "bêlâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 284,
+      "value": "belêemö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 285,
+      "value": "bëlêïngu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 302,
+      "value": "bengbä-ate",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 305,
+      "value": "bëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 306,
+      "value": "bëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 307,
+      "value": "bengörö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 312,
+      "value": "bere",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 313,
+      "value": "bere",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 314,
+      "value": "bere",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 318,
+      "value": "berelü",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 319,
+      "value": "bërëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 320,
+      "value": "bërëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 322,
+      "value": "bëtä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 323,
+      "value": "bêtâ",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 328,
+      "value": "bezôa",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 329,
+      "value": "bezôa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 332,
+      "value": "bêzöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 342,
+      "value": "biangbändä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 379,
+      "value": "bisa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 381,
+      "value": "bîsi",
+      "language": "1",
+      "part": "interjection",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 383,
+      "value": "bïtä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 390,
+      "value": "bobo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 391,
+      "value": "bobo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 404,
+      "value": "bolongäni",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 405,
+      "value": "bölöngô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 407,
+      "value": "bombô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 408,
+      "value": "bomö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 414,
+      "value": "bôngô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 418,
+      "value": "bôrô",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 419,
+      "value": "bôrö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 427,
+      "value": "bôsuï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 432,
+      "value": "bôtö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 434,
+      "value": "bôû",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 435,
+      "value": "boyo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 453,
+      "value": "budukêlêngiä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 457,
+      "value": "büle",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 458,
+      "value": "bülë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 463,
+      "value": "burubandë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 473,
+      "value": "buzanga",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 480,
+      "value": "da",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 481,
+      "value": "dä",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 482,
+      "value": "dä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 483,
+      "value": "dä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 484,
+      "value": "da",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 485,
+      "value": "daä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 490,
+      "value": "dadewo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 518,
+      "value": "dämälä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 519,
+      "value": "damango",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 523,
+      "value": "dämbä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 524,
+      "value": "dämbä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 532,
+      "value": "dämbüngbëndä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 539,
+      "value": "dandâra",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 543,
+      "value": "dânga",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 544,
+      "value": "danga",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 549,
+      "value": "dangäsa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 550,
+      "value": "dangbakëlë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 555,
+      "value": "dängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 556,
+      "value": "dängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 558,
+      "value": "danguzü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 563,
+      "value": "dara",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 564,
+      "value": "dara",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 566,
+      "value": "därängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 567,
+      "value": "därängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 575,
+      "value": "dasïökpärï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 584,
+      "value": "dë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 585,
+      "value": "dë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 586,
+      "value": "dë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 587,
+      "value": "dë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 590,
+      "value": "dë buze",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 592,
+      "value": "dë gaba",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 603,
+      "value": "deko",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 613,
+      "value": "dengböngô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 615,
+      "value": "dëngëngö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 616,
+      "value": "dêngi",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 617,
+      "value": "dêngi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 619,
+      "value": "dëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 620,
+      "value": "dëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 621,
+      "value": "dëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 622,
+      "value": "dëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 623,
+      "value": "dëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 624,
+      "value": "dëngö-köngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 634,
+      "value": "dï",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 645,
+      "value": "dïkï",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 651,
+      "value": "dïngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 652,
+      "value": "dïngö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 661,
+      "value": "dirikitëre",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 663,
+      "value": "dïrïngängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 667,
+      "value": "dö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 668,
+      "value": "do",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 669,
+      "value": "do",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 670,
+      "value": "dö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 671,
+      "value": "dö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 672,
+      "value": "dö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 673,
+      "value": "dö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 674,
+      "value": "dö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 679,
+      "value": "dödö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 681,
+      "value": "dödô",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 700,
+      "value": "döngbä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 705,
+      "value": "döngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 707,
+      "value": "döngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 708,
+      "value": "döngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 709,
+      "value": "döngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 710,
+      "value": "döngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 717,
+      "value": "döpulä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 726,
+      "value": "du",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 727,
+      "value": "dü",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 728,
+      "value": "du",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 729,
+      "value": "dü",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 733,
+      "value": "dudu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 734,
+      "value": "dudü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 735,
+      "value": "dudu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 736,
+      "value": "dudü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 744,
+      "value": "dûka",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 746,
+      "value": "dükë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 754,
+      "value": "düngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 755,
+      "value": "düngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 756,
+      "value": "düngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 773,
+      "value": "dyongo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 784,
+      "value": "emündâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 791,
+      "value": "erêge",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 795,
+      "value": "eskê",
+      "language": "1",
+      "part": "conjunction",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 800,
+      "value": "fä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 801,
+      "value": "fâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 802,
+      "value": "fâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 803,
+      "value": "fä",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 804,
+      "value": "fâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 805,
+      "value": "fâ",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 810,
+      "value": "fâa",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 817,
+      "value": "fafadeso",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 823,
+      "value": "fâlambïö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 831,
+      "value": "fängängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 832,
+      "value": "fängängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 836,
+      "value": "fängö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 837,
+      "value": "fängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 838,
+      "value": "fängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 846,
+      "value": "färängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 847,
+      "value": "färängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 862,
+      "value": "fi",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 863,
+      "value": "fi",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 873,
+      "value": "fîon",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 884,
+      "value": "fongû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 887,
+      "value": "fönö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 888,
+      "value": "fönöngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 892,
+      "value": "foro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 893,
+      "value": "foro",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 894,
+      "value": "fôro",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 897,
+      "value": "fötatë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 900,
+      "value": "fü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 901,
+      "value": "fü",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 905,
+      "value": "fufû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 906,
+      "value": "fufû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 916,
+      "value": "füngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 917,
+      "value": "füngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 918,
+      "value": "füngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 921,
+      "value": "fungû",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 923,
+      "value": "fungü vôte",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 927,
+      "value": "fünngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 928,
+      "value": "fünngö",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 929,
+      "value": "fûru",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 930,
+      "value": "fûru",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 931,
+      "value": "fûru",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 937,
+      "value": "fusen",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 949,
+      "value": "gagi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 958,
+      "value": "galgombo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 964,
+      "value": "ganapânde",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 966,
+      "value": "gandâa",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 969,
+      "value": "gangandâri",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 983,
+      "value": "gara",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 984,
+      "value": "gara",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 985,
+      "value": "gara",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 990,
+      "value": "garâmbëtï",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 992,
+      "value": "gärängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 993,
+      "value": "gärängö",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 994,
+      "value": "gärängö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 996,
+      "value": "gasa",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 997,
+      "value": "gasa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1003,
+      "value": "gbä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1004,
+      "value": "gbä",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1010,
+      "value": "gbagä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1011,
+      "value": "gbägbä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1012,
+      "value": "gbägbä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1013,
+      "value": "gbägbä",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1014,
+      "value": "gbâgba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1015,
+      "value": "gbâgbârâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1020,
+      "value": "gbâgbôro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1028,
+      "value": "gbalêkuma",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1029,
+      "value": "gbamïngangü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1039,
+      "value": "gbängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1040,
+      "value": "gbängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1046,
+      "value": "gbara",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1047,
+      "value": "gbara",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1049,
+      "value": "gbaragaza",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1050,
+      "value": "gbaragaza",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1053,
+      "value": "gbaselë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1055,
+      "value": "gbâtôndô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1070,
+      "value": "gbëgbëgë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1077,
+      "value": "gbegüda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1078,
+      "value": "gbegüda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1098,
+      "value": "gbëngbëngë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1099,
+      "value": "gbêngbi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1100,
+      "value": "gbêngbi",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1111,
+      "value": "gbï",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1112,
+      "value": "gbï",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1113,
+      "value": "gbï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1121,
+      "value": "gbïäserä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1125,
+      "value": "gbïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1126,
+      "value": "gbïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1127,
+      "value": "gbö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1128,
+      "value": "gbö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1129,
+      "value": "gbö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1130,
+      "value": "gbo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1132,
+      "value": "gbödoli",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1133,
+      "value": "gbodôndo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1136,
+      "value": "gbögömë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1137,
+      "value": "gbögömö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1138,
+      "value": "gbokö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1142,
+      "value": "gbölïtê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1143,
+      "value": "gbolo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1144,
+      "value": "gbômôyingö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1146,
+      "value": "gböngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1147,
+      "value": "gböngö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1148,
+      "value": "gböngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1150,
+      "value": "gböô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1160,
+      "value": "gbudu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1161,
+      "value": "gbudu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1163,
+      "value": "gbügbü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1164,
+      "value": "gbugburu",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1165,
+      "value": "gbugburu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1167,
+      "value": "gbügbürüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1176,
+      "value": "gë",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1177,
+      "value": "gë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1181,
+      "value": "gëkoso",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1182,
+      "value": "gêmbäsä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1190,
+      "value": "gërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1197,
+      "value": "gerere",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1204,
+      "value": "gëtë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1205,
+      "value": "gezamäa",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1206,
+      "value": "gï",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1207,
+      "value": "gï",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1209,
+      "value": "gia",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1210,
+      "value": "gia",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1212,
+      "value": "gïä",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1213,
+      "value": "gïä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1215,
+      "value": "gïängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1216,
+      "value": "gïängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1217,
+      "value": "gïängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1218,
+      "value": "gidi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1234,
+      "value": "gôbolo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1237,
+      "value": "gögö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1241,
+      "value": "gölö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1243,
+      "value": "gonda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1244,
+      "value": "gonda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1251,
+      "value": "gôsâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1256,
+      "value": "gôyongo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1258,
+      "value": "gozokongä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1259,
+      "value": "gü",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1260,
+      "value": "gü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1269,
+      "value": "gûên",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1278,
+      "value": "gulu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1294,
+      "value": "gûrû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1297,
+      "value": "güsüä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1301,
+      "value": "hä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1302,
+      "value": "hä",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1303,
+      "value": "hä",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1304,
+      "value": "hâa",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1305,
+      "value": "habe",
+      "language": "1",
+      "part": "interjection",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1319,
+      "value": "händängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1322,
+      "value": "hängö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1323,
+      "value": "hängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1324,
+      "value": "hängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1327,
+      "value": "harala",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1333,
+      "value": "häsängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1335,
+      "value": "hë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1336,
+      "value": "hë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1340,
+      "value": "hën",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1341,
+      "value": "hën",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1343,
+      "value": "hënë",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1344,
+      "value": "hene",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1345,
+      "value": "hënëngö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1347,
+      "value": "hënngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1348,
+      "value": "hënngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1355,
+      "value": "hînziä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1358,
+      "value": "hö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1365,
+      "value": "hôn-gerê",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1373,
+      "value": "hu",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1374,
+      "value": "hu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1384,
+      "value": "hüngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1385,
+      "value": "hüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1387,
+      "value": "hûnzi",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1393,
+      "value": "hurukuzü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1394,
+      "value": "hürûngbi",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1396,
+      "value": "hürüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1397,
+      "value": "hürüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1409,
+      "value": "îsirîi",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1414,
+      "value": "kä",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1415,
+      "value": "kâ",
+      "language": "1",
+      "part": "conjunction",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1416,
+      "value": "kâ",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1417,
+      "value": "kä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1418,
+      "value": "kä",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1419,
+      "value": "kâ",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1421,
+      "value": "kä yingö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1428,
+      "value": "kâfa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1429,
+      "value": "kâfa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1432,
+      "value": "kafëe",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1436,
+      "value": "käïngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1441,
+      "value": "kâkârâ-kakara",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1444,
+      "value": "käkërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1461,
+      "value": "kâmâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1462,
+      "value": "kâmâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1472,
+      "value": "kamärä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1475,
+      "value": "kâmba",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1476,
+      "value": "kâmba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1480,
+      "value": "kambisä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1499,
+      "value": "kängälë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1511,
+      "value": "kängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1512,
+      "value": "kängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1518,
+      "value": "kanza",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1529,
+      "value": "kârâ",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1531,
+      "value": "kâra",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1532,
+      "value": "kâra",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1533,
+      "value": "kârâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1542,
+      "value": "kärängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1543,
+      "value": "kärängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1557,
+      "value": "kâsakôndo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1580,
+      "value": "këdëdë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1581,
+      "value": "kêeyäkä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1584,
+      "value": "kekere",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1585,
+      "value": "kekere",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1592,
+      "value": "këkpete",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1593,
+      "value": "kekpoto",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1596,
+      "value": "kêlêhü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1602,
+      "value": "këmungä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1607,
+      "value": "kënë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1610,
+      "value": "kengë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1614,
+      "value": "kengü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1616,
+      "value": "këngûndë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1617,
+      "value": "kepa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1618,
+      "value": "kepaka",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1619,
+      "value": "kepakara",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1620,
+      "value": "kepanzayü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1631,
+      "value": "kësë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1632,
+      "value": "kësëmbötö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1635,
+      "value": "kete",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1636,
+      "value": "kete",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1639,
+      "value": "kêtê babâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1647,
+      "value": "kêtê-babâ",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1648,
+      "value": "këtëkpêen",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1649,
+      "value": "kêtê-mamâ",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1655,
+      "value": "kî",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1656,
+      "value": "kî",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1666,
+      "value": "kîmbötö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1670,
+      "value": "kindamosoro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1678,
+      "value": "kïnï",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1696,
+      "value": "kitâbo",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1703,
+      "value": "kîya",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1706,
+      "value": "kö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1707,
+      "value": "kö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1708,
+      "value": "kö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1709,
+      "value": "kö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1710,
+      "value": "kö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1711,
+      "value": "kö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1728,
+      "value": "kofö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1729,
+      "value": "köförö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1731,
+      "value": "kogbëne",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1733,
+      "value": "kôkâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1734,
+      "value": "kôko",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1735,
+      "value": "kôko",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1736,
+      "value": "kôko",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1738,
+      "value": "koko",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1750,
+      "value": "kôlï-biangbändä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1752,
+      "value": "kôlï-fionfion",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1760,
+      "value": "kôlï-sarawa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1761,
+      "value": "kôlï-tî-kü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1770,
+      "value": "komânde",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1774,
+      "value": "komasêe",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1779,
+      "value": "kömbë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1781,
+      "value": "komberëe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1782,
+      "value": "kombïte",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1788,
+      "value": "kömë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1789,
+      "value": "kömë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1795,
+      "value": "komo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1803,
+      "value": "kondö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1804,
+      "value": "kondö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1808,
+      "value": "kôndôndo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1812,
+      "value": "kongä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1814,
+      "value": "köngäpa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1815,
+      "value": "köngäsû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1816,
+      "value": "kongba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1817,
+      "value": "kongba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1821,
+      "value": "kôngbö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1822,
+      "value": "kongö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1823,
+      "value": "köngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1824,
+      "value": "kongö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1825,
+      "value": "köngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1826,
+      "value": "köngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1827,
+      "value": "kongö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1828,
+      "value": "köngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1829,
+      "value": "köngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1830,
+      "value": "köngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1831,
+      "value": "köngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1832,
+      "value": "kongôbololo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1841,
+      "value": "konzöngörö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1842,
+      "value": "koôngâsa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1844,
+      "value": "kopäyôkä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1850,
+      "value": "kopu",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1863,
+      "value": "köröngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1864,
+      "value": "köröngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1869,
+      "value": "koso",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1870,
+      "value": "koso",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1871,
+      "value": "koso",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1876,
+      "value": "kötä-körö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1882,
+      "value": "koto",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1883,
+      "value": "koto",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1884,
+      "value": "koto",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1885,
+      "value": "kôto",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1894,
+      "value": "kôya-biangbändä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1895,
+      "value": "kôya-sisa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1896,
+      "value": "kôya-totâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1897,
+      "value": "kôyo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1904,
+      "value": "kozoyömö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1905,
+      "value": "kpa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1906,
+      "value": "kpa",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1907,
+      "value": "kpa",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1909,
+      "value": "kpâa",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1910,
+      "value": "kpâa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1912,
+      "value": "kpabäbolo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1913,
+      "value": "kpäbänzä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1915,
+      "value": "kpäföndo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1919,
+      "value": "kpakâra",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1920,
+      "value": "kpakata",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1921,
+      "value": "kpakata",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1924,
+      "value": "kpäkpä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1925,
+      "value": "kpäkpä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1933,
+      "value": "kpâlê-îtä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1934,
+      "value": "kpâlê-îtä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1940,
+      "value": "kpânga",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1941,
+      "value": "kpängäbä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1942,
+      "value": "kpängba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1943,
+      "value": "kpängba",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1944,
+      "value": "kpangba",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1945,
+      "value": "kpângbä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1951,
+      "value": "kpängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1952,
+      "value": "kpängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1953,
+      "value": "kpängû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1954,
+      "value": "kpapondo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1963,
+      "value": "kpayä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1967,
+      "value": "kpazüru",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1968,
+      "value": "kpë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1969,
+      "value": "kpë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1988,
+      "value": "kpëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1989,
+      "value": "kpëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1994,
+      "value": "kpete",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1995,
+      "value": "kpetebâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1996,
+      "value": "kpetedö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1997,
+      "value": "kpete-doli",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1998,
+      "value": "kpetehonê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 1999,
+      "value": "kpetesêse",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2000,
+      "value": "kpete-sömënï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2010,
+      "value": "kpodo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2013,
+      "value": "kpökôlô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2020,
+      "value": "kpônderen",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2021,
+      "value": "kpongbo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2022,
+      "value": "kpongbo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2024,
+      "value": "kpôngubü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2028,
+      "value": "kpoto",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2029,
+      "value": "kpoto",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2030,
+      "value": "kpoto",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2032,
+      "value": "kpu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2033,
+      "value": "kpu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2045,
+      "value": "kpütä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2050,
+      "value": "kü",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2051,
+      "value": "kü",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2054,
+      "value": "kua",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2057,
+      "value": "kua",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2059,
+      "value": "kuakuara",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2078,
+      "value": "küdä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2079,
+      "value": "küdä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2081,
+      "value": "kûê",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2082,
+      "value": "kûê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2083,
+      "value": "kuë",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2087,
+      "value": "kugbëkpakpa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2088,
+      "value": "kugbëlavu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2089,
+      "value": "kugbëngbö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2090,
+      "value": "kugbëngû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2091,
+      "value": "kugbësängbä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2092,
+      "value": "kugbëzamba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2094,
+      "value": "kûku",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2095,
+      "value": "kûku",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2098,
+      "value": "küküngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2099,
+      "value": "kükürü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2100,
+      "value": "kükürü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2102,
+      "value": "kukutu",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2109,
+      "value": "kûmba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2110,
+      "value": "kumbâ",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2114,
+      "value": "kundâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2116,
+      "value": "kundü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2123,
+      "value": "küngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2124,
+      "value": "küngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2125,
+      "value": "küngö",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2132,
+      "value": "künü",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2151,
+      "value": "kûtunêmbo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2158,
+      "value": "labânge",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2178,
+      "value": "lambu",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2182,
+      "value": "lamêre",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2183,
+      "value": "lamêre",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2188,
+      "value": "langandö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2206,
+      "value": "laramoära",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2216,
+      "value": "lë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2217,
+      "value": "lë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2228,
+      "value": "lele",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2229,
+      "value": "lele",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2230,
+      "value": "lele",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2231,
+      "value": "lêlê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2233,
+      "value": "lëlêü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2238,
+      "value": "lêmonge",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2239,
+      "value": "lêmope",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2244,
+      "value": "lêngbêtôrô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2247,
+      "value": "lëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2248,
+      "value": "lëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2250,
+      "value": "lênzë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2255,
+      "value": "lësü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2256,
+      "value": "lesua",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2257,
+      "value": "lesua",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2263,
+      "value": "li",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2264,
+      "value": "lï",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2265,
+      "value": "lï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2266,
+      "value": "li",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2268,
+      "value": "li",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2269,
+      "value": "lîâ",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2270,
+      "value": "lîâ",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2296,
+      "value": "lime",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2297,
+      "value": "lime",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2301,
+      "value": "linda",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2302,
+      "value": "linda",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2305,
+      "value": "lïndi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2319,
+      "value": "lïngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2320,
+      "value": "lïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2321,
+      "value": "lïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2326,
+      "value": "lïpâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2338,
+      "value": "lito",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2339,
+      "value": "lito",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2340,
+      "value": "lô",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2341,
+      "value": "lô",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2345,
+      "value": "löbêngû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2353,
+      "value": "lokpoto",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2354,
+      "value": "lolo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2355,
+      "value": "lôlo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2358,
+      "value": "lömbö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2363,
+      "value": "löngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2364,
+      "value": "löngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2365,
+      "value": "löngö",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2370,
+      "value": "lopitäni",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2381,
+      "value": "lûkpü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2385,
+      "value": "lüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2386,
+      "value": "lüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2389,
+      "value": "lûpü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2399,
+      "value": "mabêâ",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2416,
+      "value": "makerere",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2417,
+      "value": "makobe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2420,
+      "value": "makunzi",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2428,
+      "value": "mamakä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2429,
+      "value": "mamâme",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2432,
+      "value": "mambôkê",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2461,
+      "value": "marakanï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2464,
+      "value": "marakûbi",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2467,
+      "value": "marara",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2474,
+      "value": "masïka",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2496,
+      "value": "mbaförö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2503,
+      "value": "mbamba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2504,
+      "value": "mbamba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2505,
+      "value": "mbambâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2506,
+      "value": "mbâmbalï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2507,
+      "value": "mbambângû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2513,
+      "value": "mbängü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2514,
+      "value": "mbängü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2517,
+      "value": "mbärä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2518,
+      "value": "mbârâmbârâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2526,
+      "value": "mbatâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2535,
+      "value": "mbenga",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2536,
+      "value": "mbëngë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2537,
+      "value": "mbëngë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2541,
+      "value": "mbere",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2542,
+      "value": "mbere",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2543,
+      "value": "mbêrêkê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2546,
+      "value": "mbesa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2566,
+      "value": "mbî",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2567,
+      "value": "mbî",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2575,
+      "value": "mbïö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2576,
+      "value": "mbïö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2582,
+      "value": "mboä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2584,
+      "value": "mbokâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2585,
+      "value": "mbokä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2588,
+      "value": "mboli",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2594,
+      "value": "mbômo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2595,
+      "value": "mbômo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2596,
+      "value": "mböndï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2597,
+      "value": "mbôndî",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2598,
+      "value": "mbongo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2599,
+      "value": "mböngo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2600,
+      "value": "mböngo",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2601,
+      "value": "mbongo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2607,
+      "value": "mbôsë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2608,
+      "value": "mbôsï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2609,
+      "value": "mbôsuï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2610,
+      "value": "mbotêmbëngë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2611,
+      "value": "mbôtën",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2612,
+      "value": "mbötö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2613,
+      "value": "mbotö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2617,
+      "value": "mbua",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2618,
+      "value": "mbuâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2619,
+      "value": "mbua",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2620,
+      "value": "mbühu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2621,
+      "value": "mbüka",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2625,
+      "value": "mbülündo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2626,
+      "value": "mbülüngbä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2628,
+      "value": "mbuma",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2633,
+      "value": "mbündu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2645,
+      "value": "mbutä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2648,
+      "value": "mbûu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2649,
+      "value": "më",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2650,
+      "value": "me",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2651,
+      "value": "me",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2652,
+      "value": "më",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2653,
+      "value": "me",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2654,
+      "value": "më",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2655,
+      "value": "me",
+      "language": "1",
+      "part": "conjunction",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2656,
+      "value": "më",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2659,
+      "value": "mêä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2662,
+      "value": "mebë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2663,
+      "value": "mëda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2670,
+      "value": "membärä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2672,
+      "value": "memeka",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2673,
+      "value": "memekangolo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2681,
+      "value": "mëngâü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2683,
+      "value": "mëngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2684,
+      "value": "mëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2685,
+      "value": "mëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2686,
+      "value": "mëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2690,
+      "value": "merênge",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2701,
+      "value": "mîa",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2726,
+      "value": "möä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2731,
+      "value": "mobärä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2734,
+      "value": "mobôngô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2735,
+      "value": "mobüä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2736,
+      "value": "mobutu",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2741,
+      "value": "mokêla",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2742,
+      "value": "mokengë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2743,
+      "value": "mokërëlö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2744,
+      "value": "mokërëlö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2746,
+      "value": "mokerere",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2748,
+      "value": "mokobe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2749,
+      "value": "moköbö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2750,
+      "value": "mokoku",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2751,
+      "value": "moköküä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2755,
+      "value": "mokükutä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2759,
+      "value": "molïngä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2763,
+      "value": "mombülü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2766,
+      "value": "mondondo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2769,
+      "value": "monganga",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2770,
+      "value": "mongbê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2771,
+      "value": "mongbë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2772,
+      "value": "mongböngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2773,
+      "value": "mongêngê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2774,
+      "value": "môngôdë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2776,
+      "value": "môngûânyë-nzaï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2777,
+      "value": "môngüâyë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2778,
+      "value": "mongüënyi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2780,
+      "value": "monzanzara",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2782,
+      "value": "monzenzene",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2783,
+      "value": "monzërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2784,
+      "value": "monzüängë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2787,
+      "value": "mopîâ",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2791,
+      "value": "mosïngä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2792,
+      "value": "mosö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2795,
+      "value": "mosülupita",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2798,
+      "value": "motêe",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2801,
+      "value": "motuä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2802,
+      "value": "motüä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2817,
+      "value": "mü-na-mbï",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2818,
+      "value": "müngä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2819,
+      "value": "mûngâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2824,
+      "value": "munzû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2825,
+      "value": "munzûnzapä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2835,
+      "value": "mvërën",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2838,
+      "value": "mvuge",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2840,
+      "value": "mvupo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2845,
+      "value": "nâkö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2846,
+      "value": "nängünzä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2851,
+      "value": "ndäbongofä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2867,
+      "value": "ndängängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2879,
+      "value": "ndarasa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2888,
+      "value": "ndekêlendê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2895,
+      "value": "ndêndê",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2901,
+      "value": "ndiä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2906,
+      "value": "ndikiri",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2907,
+      "value": "ndikiri",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2908,
+      "value": "ndindïi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2909,
+      "value": "ndindïri",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2911,
+      "value": "ndiri",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2913,
+      "value": "ndo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2914,
+      "value": "ndo",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2924,
+      "value": "ndolë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2928,
+      "value": "ndölö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2934,
+      "value": "ndömörö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2943,
+      "value": "ndöngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2954,
+      "value": "ndûmbâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2958,
+      "value": "ndüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2959,
+      "value": "ndüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2966,
+      "value": "ndûu",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2975,
+      "value": "ngâ",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2976,
+      "value": "ngâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2981,
+      "value": "ngâgö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2986,
+      "value": "ngän",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2987,
+      "value": "ngän",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2988,
+      "value": "nganda",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2989,
+      "value": "nganda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2990,
+      "value": "nganda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2991,
+      "value": "ngändängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 2997,
+      "value": "ngänzë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3006,
+      "value": "ngâsia",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3007,
+      "value": "ngâsia",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3018,
+      "value": "ngbake",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3023,
+      "value": "ngbängä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3025,
+      "value": "ngbangaföro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3026,
+      "value": "ngbangänzâ",
+      "language": "1",
+      "part": "pronoun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3031,
+      "value": "ngbängbäbölo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3033,
+      "value": "ngbangêe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3034,
+      "value": "ngbangêlë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3035,
+      "value": "ngbängêrê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3041,
+      "value": "ngbêne",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3043,
+      "value": "ngbengbe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3050,
+      "value": "ngbewa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3052,
+      "value": "ngbîna",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3054,
+      "value": "ngbö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3055,
+      "value": "ngbö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3059,
+      "value": "ngbôlô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3070,
+      "value": "ngbongbôro",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3071,
+      "value": "ngbongbôro",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3075,
+      "value": "ngbôngorô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3081,
+      "value": "ngbukë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3083,
+      "value": "ngbünda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3086,
+      "value": "ngbüngi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3089,
+      "value": "nge",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3090,
+      "value": "nge",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3091,
+      "value": "ngë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3100,
+      "value": "ngën",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3102,
+      "value": "ngende",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3107,
+      "value": "ngënye",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3108,
+      "value": "ngenyë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3109,
+      "value": "ngenyö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3113,
+      "value": "ngerewa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3116,
+      "value": "ngi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3117,
+      "value": "ngi",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3122,
+      "value": "ngîkilê",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3127,
+      "value": "ngïrïkî",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3128,
+      "value": "ngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3129,
+      "value": "ngo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3130,
+      "value": "ngo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3131,
+      "value": "ngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3132,
+      "value": "ngo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3133,
+      "value": "ngo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3141,
+      "value": "ngokërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3142,
+      "value": "ngokpügërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3144,
+      "value": "ngolo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3145,
+      "value": "ngolo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3148,
+      "value": "ngombe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3149,
+      "value": "ngombe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3151,
+      "value": "ngombembö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3156,
+      "value": "ngondôo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3160,
+      "value": "ngongo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3161,
+      "value": "ngöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3162,
+      "value": "ngöngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3163,
+      "value": "ngongo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3164,
+      "value": "ngongo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3165,
+      "value": "ngöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3171,
+      "value": "ngoro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3172,
+      "value": "ngoro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3181,
+      "value": "ngowên",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3188,
+      "value": "ngüënyë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3190,
+      "value": "ngukü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3196,
+      "value": "ngûmbï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3197,
+      "value": "ngûme",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3198,
+      "value": "ngûme",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3218,
+      "value": "nguru",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3219,
+      "value": "nguru",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3221,
+      "value": "ngurukë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3222,
+      "value": "ngürüngbii",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3226,
+      "value": "ngûzûru",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3227,
+      "value": "nï",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3228,
+      "value": "nî",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3229,
+      "value": "nî",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3230,
+      "value": "nï",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3235,
+      "value": "ninë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3239,
+      "value": "ninzenzö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3276,
+      "value": "nzabï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3277,
+      "value": "nzaï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3278,
+      "value": "nzala",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3282,
+      "value": "nzânda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3284,
+      "value": "nzanza",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3286,
+      "value": "nzânzâmboli",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3287,
+      "value": "nzanzë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3289,
+      "value": "nzâpêrê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3295,
+      "value": "nzayü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3296,
+      "value": "nze",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3297,
+      "value": "nze",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3299,
+      "value": "nzêgê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3300,
+      "value": "nzëlëlë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3304,
+      "value": "nzënë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3305,
+      "value": "nzënë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3306,
+      "value": "nzëne",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3308,
+      "value": "nzênembôsï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3313,
+      "value": "nzërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3314,
+      "value": "nzërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3315,
+      "value": "nzêre",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3320,
+      "value": "nzerepâko",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3324,
+      "value": "nziä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3326,
+      "value": "nzilä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3327,
+      "value": "nzîlâ-ngöngökpakpa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3332,
+      "value": "nzira",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3333,
+      "value": "nzö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3334,
+      "value": "nzö",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3340,
+      "value": "nzôlogê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3341,
+      "value": "nzombö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3342,
+      "value": "nzombö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3343,
+      "value": "nzömbö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3344,
+      "value": "nzôngbô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3346,
+      "value": "nzöngörö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3353,
+      "value": "nzüêen",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3361,
+      "value": "ölëngö",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3364,
+      "value": "onê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3369,
+      "value": "ôrô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3370,
+      "value": "öröngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3371,
+      "value": "öröngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3402,
+      "value": "päpä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3405,
+      "value": "papaya",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3429,
+      "value": "pätärä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3430,
+      "value": "pätärä",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3433,
+      "value": "pâvoro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3434,
+      "value": "päwä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3448,
+      "value": "pêmba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3461,
+      "value": "pëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3462,
+      "value": "pëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3468,
+      "value": "pëpë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3470,
+      "value": "pêpëlêpendo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3471,
+      "value": "pepenyömö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3474,
+      "value": "perê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3482,
+      "value": "pêsu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3486,
+      "value": "pete",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3487,
+      "value": "pete",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3514,
+      "value": "pinïi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3516,
+      "value": "pîpï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3517,
+      "value": "pîri",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3518,
+      "value": "pîri",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3524,
+      "value": "pitëen",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3534,
+      "value": "pokô",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3535,
+      "value": "pôkö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3536,
+      "value": "polëlê",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3537,
+      "value": "polëlê",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3541,
+      "value": "polüsu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3542,
+      "value": "pombändä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3553,
+      "value": "pongo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3554,
+      "value": "pöngö-yê",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3575,
+      "value": "pôse",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3590,
+      "value": "pupuruka",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3603,
+      "value": "retêe",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3612,
+      "value": "sâa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3613,
+      "value": "sâa",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3624,
+      "value": "saba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3625,
+      "value": "sabânga",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3628,
+      "value": "sâdâka",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3635,
+      "value": "sakasâka",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3637,
+      "value": "sâki",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3638,
+      "value": "sâki",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3646,
+      "value": "sâla",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3648,
+      "value": "sälängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3660,
+      "value": "sân",
+      "language": "1",
+      "part": "preposition",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3661,
+      "value": "sân",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3663,
+      "value": "sana",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3664,
+      "value": "sana",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3667,
+      "value": "sângâï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3672,
+      "value": "sango",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3673,
+      "value": "sängö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3674,
+      "value": "sango",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3675,
+      "value": "sängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3681,
+      "value": "sänzä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3684,
+      "value": "sanzi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3685,
+      "value": "sänzï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3693,
+      "value": "sârâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3696,
+      "value": "särängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3697,
+      "value": "särängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3698,
+      "value": "säräpandë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3701,
+      "value": "sarawa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3704,
+      "value": "sasâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3706,
+      "value": "sasa-mo-dë",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3770,
+      "value": "sêndâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3771,
+      "value": "sêndâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3785,
+      "value": "sêndâdödö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3796,
+      "value": "sêndâ-gerêsêgô",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3812,
+      "value": "sêndâ-kpälëködörö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3839,
+      "value": "sê-ndângâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3840,
+      "value": "sê-ndângâlinyô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3855,
+      "value": "sêndâpagao",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3856,
+      "value": "sêndâpandë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3857,
+      "value": "sêndâ-pendâgbegô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3859,
+      "value": "sêndâ-pölïtîki",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3860,
+      "value": "sêndâ-pölïtîki",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3908,
+      "value": "sëngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3909,
+      "value": "sëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3913,
+      "value": "sën-kpakpa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3915,
+      "value": "sên-ngonda",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3916,
+      "value": "sepë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3921,
+      "value": "sërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3922,
+      "value": "sërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3923,
+      "value": "serë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3930,
+      "value": "sêse",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3931,
+      "value": "sêse",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3950,
+      "value": "sï",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3951,
+      "value": "sï",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3952,
+      "value": "sï",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3959,
+      "value": "sîin",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3960,
+      "value": "sîin",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3972,
+      "value": "singana",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3974,
+      "value": "sïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3975,
+      "value": "sïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3982,
+      "value": "sisä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3985,
+      "value": "sisongo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3986,
+      "value": "sô",
+      "language": "1",
+      "part": "pronoun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3987,
+      "value": "sô",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 3998,
+      "value": "söë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4000,
+      "value": "sökë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4003,
+      "value": "somba",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4005,
+      "value": "sömbängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4007,
+      "value": "sombo",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4008,
+      "value": "sombo",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4010,
+      "value": "sön",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4011,
+      "value": "sön",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4013,
+      "value": "söngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4014,
+      "value": "söngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4015,
+      "value": "söngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4020,
+      "value": "soônga",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4023,
+      "value": "soro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4024,
+      "value": "soro",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4032,
+      "value": "sowâsi",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4034,
+      "value": "su",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4035,
+      "value": "sû",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4036,
+      "value": "sû",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4037,
+      "value": "su",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4041,
+      "value": "süä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4042,
+      "value": "süä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4053,
+      "value": "sûkûru",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4057,
+      "value": "sûlupita",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4070,
+      "value": "süngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4071,
+      "value": "süngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4072,
+      "value": "süngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4073,
+      "value": "süngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4074,
+      "value": "sûngûperënge",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4090,
+      "value": "tâ",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4091,
+      "value": "ta",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4092,
+      "value": "ta",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4093,
+      "value": "tâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4097,
+      "value": "tâ tënë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4100,
+      "value": "täba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4103,
+      "value": "tâgba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4119,
+      "value": "tamburuwa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4126,
+      "value": "tângbi",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4127,
+      "value": "tângbi",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4130,
+      "value": "tângo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4131,
+      "value": "tângo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4135,
+      "value": "tangü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4136,
+      "value": "tangü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4141,
+      "value": "taräbangë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4142,
+      "value": "tärängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4143,
+      "value": "taratärä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4147,
+      "value": "tâsi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4148,
+      "value": "tâsi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4156,
+      "value": "tâtënë",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4160,
+      "value": "te",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4161,
+      "value": "te",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4163,
+      "value": "tëlëlë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4167,
+      "value": "temë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4168,
+      "value": "tende",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4169,
+      "value": "tende",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4176,
+      "value": "tere",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4177,
+      "value": "tere",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4182,
+      "value": "têtêngbë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4185,
+      "value": "tï",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4186,
+      "value": "tï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4187,
+      "value": "tï",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4189,
+      "value": "tîa",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4190,
+      "value": "tîa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4194,
+      "value": "tikî",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4200,
+      "value": "tïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4201,
+      "value": "tïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4210,
+      "value": "tô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4211,
+      "value": "to",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4212,
+      "value": "tö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4213,
+      "value": "to",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4214,
+      "value": "tô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4215,
+      "value": "tö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4216,
+      "value": "tö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4217,
+      "value": "tö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4221,
+      "value": "togbao",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4230,
+      "value": "tomba",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4231,
+      "value": "tombäo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4247,
+      "value": "töngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4248,
+      "value": "töngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4249,
+      "value": "töngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4250,
+      "value": "töngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4251,
+      "value": "töngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4261,
+      "value": "toro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4263,
+      "value": "torokësë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4266,
+      "value": "totä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4267,
+      "value": "toto",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4268,
+      "value": "toto",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4273,
+      "value": "tûbangî",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4274,
+      "value": "tubu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4275,
+      "value": "tue",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4280,
+      "value": "tüku",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4281,
+      "value": "tüku",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4305,
+      "value": "tutü",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4315,
+      "value": "urumäni",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4327,
+      "value": "vâvâkâ",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4333,
+      "value": "venë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4334,
+      "value": "venën",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4338,
+      "value": "vî",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4339,
+      "value": "vî",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4342,
+      "value": "vindoli",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4348,
+      "value": "vöngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4349,
+      "value": "vöngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4355,
+      "value": "vovoro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4356,
+      "value": "vovoro",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4357,
+      "value": "vü",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4358,
+      "value": "vü",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4362,
+      "value": "vula",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4363,
+      "value": "vula",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4370,
+      "value": "vüngö",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4371,
+      "value": "vüngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4373,
+      "value": "vurükësë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4375,
+      "value": "wa",
+      "language": "1",
+      "part": "interjection",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4376,
+      "value": "wa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4377,
+      "value": "wa",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4405,
+      "value": "wadëngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4406,
+      "value": "wadëngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4409,
+      "value": "wafängö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4410,
+      "value": "wafängö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4437,
+      "value": "wahînön",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4460,
+      "value": "wakoba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4485,
+      "value": "wakutukutu",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4488,
+      "value": "walaparäa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4508,
+      "value": "walïngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4509,
+      "value": "walïngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4510,
+      "value": "wâlï-wâlï",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4511,
+      "value": "wâlï-wâlï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4558,
+      "value": "wangän",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4566,
+      "value": "wangë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4573,
+      "value": "wängö-bê",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4607,
+      "value": "wasêndâ-bakarî",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4611,
+      "value": "wasêndâ-boroli",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4612,
+      "value": "wasêndâ-boroli",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4671,
+      "value": "wasïökörö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4675,
+      "value": "wasüngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4676,
+      "value": "wasüngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4677,
+      "value": "wasüngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4678,
+      "value": "wasüngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4692,
+      "value": "wawërë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4705,
+      "value": "wayöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4706,
+      "value": "wayöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4711,
+      "value": "wêdi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4716,
+      "value": "wënyë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4717,
+      "value": "wêre",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4720,
+      "value": "wï",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4723,
+      "value": "wôko",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4727,
+      "value": "wöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4728,
+      "value": "wöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4729,
+      "value": "wöngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4744,
+      "value": "wüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4745,
+      "value": "wüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4746,
+      "value": "wüngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4747,
+      "value": "wüngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4749,
+      "value": "wûrûrû",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4762,
+      "value": "yamba",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4763,
+      "value": "yamba",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4776,
+      "value": "yangö",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4777,
+      "value": "yängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4778,
+      "value": "yängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4779,
+      "value": "yangö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4795,
+      "value": "yê",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4796,
+      "value": "yê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4797,
+      "value": "yë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4806,
+      "value": "yeke",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4807,
+      "value": "yeke",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4816,
+      "value": "yenga",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4817,
+      "value": "yenga",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4830,
+      "value": "yeyë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4841,
+      "value": "yo",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4842,
+      "value": "yo",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4846,
+      "value": "yombe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4850,
+      "value": "yöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4851,
+      "value": "yöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4852,
+      "value": "yöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4853,
+      "value": "yöngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4854,
+      "value": "yöngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4858,
+      "value": "yôo",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4859,
+      "value": "yôo",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4860,
+      "value": "yôro",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4861,
+      "value": "yôro",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4863,
+      "value": "yoröbörö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4864,
+      "value": "yöröki",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4865,
+      "value": "yorönden",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4866,
+      "value": "yorönzïä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4875,
+      "value": "yüngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4876,
+      "value": "yüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4879,
+      "value": "yürüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4880,
+      "value": "yürüngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4881,
+      "value": "za",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4882,
+      "value": "za",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4887,
+      "value": "zagba",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4893,
+      "value": "zalamëti",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4894,
+      "value": "zalawa",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4898,
+      "value": "zanäna",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4899,
+      "value": "zananäa",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4901,
+      "value": "zängö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4902,
+      "value": "zängö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4903,
+      "value": "zanzâlimo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4910,
+      "value": "zâüza",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4918,
+      "value": "zë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4919,
+      "value": "zë",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4920,
+      "value": "ze",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4922,
+      "value": "ze",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4923,
+      "value": "zen",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4924,
+      "value": "zêdi",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4925,
+      "value": "zêe",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4926,
+      "value": "zêe",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4929,
+      "value": "zëkëzë",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4931,
+      "value": "zeme",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4933,
+      "value": "zën",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4934,
+      "value": "zën",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4935,
+      "value": "zên",
+      "language": "1",
+      "part": "adverb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4936,
+      "value": "zen",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4943,
+      "value": "zëngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4944,
+      "value": "zëngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4949,
+      "value": "zêzê",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4950,
+      "value": "zezeke",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4953,
+      "value": "zï",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4955,
+      "value": "zïä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4963,
+      "value": "zigidâ",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4964,
+      "value": "zïkä",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4967,
+      "value": "zïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4968,
+      "value": "zïngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4970,
+      "value": "zïngö-dû",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4977,
+      "value": "ziyöon",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4978,
+      "value": "ziyöon",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4981,
+      "value": "zö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4982,
+      "value": "zö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4991,
+      "value": "zongbo",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4992,
+      "value": "zöngö",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4993,
+      "value": "zöngö",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4994,
+      "value": "zöngö",
+      "language": "1",
+      "part": null,
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4996,
+      "value": "zonyöon",
+      "language": "1",
+      "part": "adjective",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4997,
+      "value": "zonyöon",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 4998,
+      "value": "zorökpô",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 5004,
+      "value": "zua",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 5007,
+      "value": "zûku",
+      "language": "1",
+      "part": "verb",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 5011,
+      "value": "zürü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    },
+    {
+      "id": 5012,
+      "value": "zürü",
+      "language": "1",
+      "part": "noun",
+      "sources": null,
+      "translations": null
+    }
+  ]
